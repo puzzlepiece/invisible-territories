@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+  <path>
+    <vertex x="160" y="0"/>
+    <vertex x="160" y="80"/>
+    <vertex x="240" y="80"/>
+    <vertex x="240" y="160"/>
+    <vertex x="320" y="160"/>
+    <vertex x="320" y="240"/>
+    <vertex x="400" y="240"/>
+    <vertex x="400" y="160"/>
+    <vertex x="400" y="80"/>
+    <vertex x="480" y="80"/>
+    <vertex x="480" y="160"/>
+    <vertex x="480" y="240"/>
+    <vertex x="480" y="320"/>
+    <vertex x="400" y="320"/>
+    <vertex x="400" y="400"/>
+    <vertex x="480" y="400"/>
+    <vertex x="480" y="480"/>
+  </path>
+  <path>
+    <vertex x="0" y="160"/>
+    <vertex x="80" y="160"/>
+    <vertex x="80" y="240"/>
+    <vertex x="160" y="240"/>
+    <vertex x="160" y="160"/>
+    <vertex x="240" y="160"/>
+    <vertex x="240" y="80"/>
+    <vertex x="320" y="80"/>
+    <vertex x="400" y="80"/>
+    <vertex x="400" y="160"/>
+    <vertex x="320" y="160"/>
+    <vertex x="320" y="240"/>
+    <vertex x="400" y="240"/>
+    <vertex x="400" y="320"/>
+    <vertex x="480" y="320"/>
+    <vertex x="480" y="400"/>
+    <vertex x="480" y="480"/>
+  </path>
+  <path>
+    <vertex x="480" y="480"/>
+    <vertex x="480" y="400"/>
+    <vertex x="480" y="320"/>
+    <vertex x="480" y="240"/>
+    <vertex x="400" y="240"/>
+    <vertex x="320" y="240"/>
+    <vertex x="320" y="320"/>
+    <vertex x="400" y="320"/>
+    <vertex x="400" y="400"/>
+    <vertex x="320" y="400"/>
+    <vertex x="240" y="400"/>
+    <vertex x="160" y="400"/>
+    <vertex x="160" y="320"/>
+    <vertex x="80" y="320"/>
+    <vertex x="0" y="320"/>
+  </path>
+  <path>
+    <vertex x="320" y="480"/>
+    <vertex x="320" y="400"/>
+    <vertex x="400" y="400"/>
+    <vertex x="400" y="320"/>
+    <vertex x="320" y="320"/>
+    <vertex x="320" y="240"/>
+    <vertex x="320" y="160"/>
+    <vertex x="240" y="160"/>
+    <vertex x="240" y="80"/>
+    <vertex x="160" y="80"/>
+    <vertex x="80" y="80"/>
+    <vertex x="80" y="160"/>
+    <vertex x="160" y="160"/>
+    <vertex x="160" y="240"/>
+    <vertex x="160" y="320"/>
+    <vertex x="80" y="320"/>
+    <vertex x="0" y="320"/>
+  </path>
+  <path>
+    <vertex x="640" y="400"/>
+    <vertex x="560" y="400"/>
+    <vertex x="560" y="320"/>
+    <vertex x="480" y="320"/>
+    <vertex x="480" y="240"/>
+    <vertex x="480" y="160"/>
+    <vertex x="560" y="160"/>
+    <vertex x="560" y="80"/>
+    <vertex x="480" y="80"/>
+    <vertex x="400" y="80"/>
+    <vertex x="320" y="80"/>
+    <vertex x="240" y="80"/>
+    <vertex x="240" y="0"/>
+  </path>
+  <path>
+    <vertex x="640" y="240"/>
+    <vertex x="560" y="240"/>
+    <vertex x="480" y="240"/>
+    <vertex x="400" y="240"/>
+    <vertex x="400" y="160"/>
+    <vertex x="400" y="80"/>
+    <vertex x="320" y="80"/>
+    <vertex x="320" y="160"/>
+    <vertex x="320" y="240"/>
+    <vertex x="240" y="240"/>
+    <vertex x="240" y="160"/>
+    <vertex x="160" y="160"/>
+    <vertex x="160" y="80"/>
+    <vertex x="80" y="80"/>
+    <vertex x="80" y="160"/>
+    <vertex x="80" y="240"/>
+    <vertex x="0" y="240"/>
+  </path>
+  <path>
+    <vertex x="400" y="480"/>
+    <vertex x="400" y="400"/>
+    <vertex x="320" y="400"/>
+    <vertex x="240" y="400"/>
+    <vertex x="240" y="320"/>
+    <vertex x="160" y="320"/>
+    <vertex x="80" y="320"/>
+    <vertex x="80" y="240"/>
+    <vertex x="80" y="160"/>
+    <vertex x="80" y="80"/>
+    <vertex x="160" y="80"/>
+    <vertex x="240" y="80"/>
+    <vertex x="240" y="0"/>
+  </path>
+  <path>
+    <vertex x="240" y="480"/>
+    <vertex x="240" y="400"/>
+    <vertex x="320" y="400"/>
+    <vertex x="320" y="320"/>
+    <vertex x="240" y="320"/>
+    <vertex x="240" y="240"/>
+    <vertex x="320" y="240"/>
+    <vertex x="320" y="160"/>
+    <vertex x="400" y="160"/>
+    <vertex x="400" y="80"/>
+    <vertex x="480" y="80"/>
+    <vertex x="480" y="160"/>
+    <vertex x="480" y="240"/>
+    <vertex x="480" y="320"/>
+    <vertex x="400" y="320"/>
+    <vertex x="400" y="400"/>
+    <vertex x="480" y="400"/>
+    <vertex x="480" y="480"/>
+  </path>
+  <path>
+    <vertex x="480" y="0"/>
+    <vertex x="480" y="80"/>
+    <vertex x="400" y="80"/>
+    <vertex x="320" y="80"/>
+    <vertex x="320" y="160"/>
+    <vertex x="400" y="160"/>
+    <vertex x="400" y="240"/>
+    <vertex x="320" y="240"/>
+    <vertex x="240" y="240"/>
+    <vertex x="240" y="320"/>
+    <vertex x="160" y="320"/>
+    <vertex x="160" y="240"/>
+    <vertex x="160" y="160"/>
+    <vertex x="80" y="160"/>
+    <vertex x="0" y="160"/>
+  </path>
+  <path>
+    <vertex x="0" y="320"/>
+    <vertex x="80" y="320"/>
+    <vertex x="160" y="320"/>
+    <vertex x="160" y="240"/>
+    <vertex x="240" y="240"/>
+    <vertex x="320" y="240"/>
+    <vertex x="400" y="240"/>
+    <vertex x="480" y="240"/>
+    <vertex x="480" y="160"/>
+    <vertex x="400" y="160"/>
+    <vertex x="400" y="80"/>
+    <vertex x="320" y="80"/>
+    <vertex x="320" y="160"/>
+    <vertex x="240" y="160"/>
+    <vertex x="160" y="160"/>
+    <vertex x="80" y="160"/>
+    <vertex x="0" y="160"/>
+  </path>
+  <path>
+    <vertex x="0" y="320"/>
+    <vertex x="80" y="320"/>
+    <vertex x="160" y="320"/>
+    <vertex x="160" y="240"/>
+    <vertex x="160" y="160"/>
+    <vertex x="240" y="160"/>
+    <vertex x="320" y="160"/>
+    <vertex x="320" y="240"/>
+    <vertex x="400" y="240"/>
+    <vertex x="400" y="320"/>
+    <vertex x="400" y="400"/>
+    <vertex x="480" y="400"/>
+    <vertex x="480" y="480"/>
+  </path>
+  <path>
+    <vertex x="560" y="0"/>
+    <vertex x="560" y="80"/>
+    <vertex x="480" y="80"/>
+    <vertex x="480" y="160"/>
+    <vertex x="400" y="160"/>
+    <vertex x="400" y="240"/>
+    <vertex x="320" y="240"/>
+    <vertex x="320" y="160"/>
+    <vertex x="240" y="160"/>
+    <vertex x="240" y="240"/>
+    <vertex x="160" y="240"/>
+    <vertex x="160" y="160"/>
+    <vertex x="160" y="80"/>
+    <vertex x="240" y="80"/>
+    <vertex x="240" y="0"/>
+  </path>
+</territory>
