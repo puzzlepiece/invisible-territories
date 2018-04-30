@@ -80,11 +80,6 @@ void ofApp::update(){
         }//if address
     }//while
     
-    
-
-    
- //   }
-    
     //this is purely workaround for a mysterious OSCpack bug on 64bit linux
     // after startup, reinit the receivers
     // must be a timing problem, though - in debug, stepping through, it works.
